@@ -13,7 +13,7 @@ Copy `.env.example` to `.env` and adjust as needed.
 
 ## GitHub Actions secrets
 
-The CI workflow (`.github/workflows/ci.yml`) pushes Docker images to Amazon ECR using
+The CI workflow (`.github/workflows/ci.yml`) pushes Docker images to Amazon ECR using ggh
 short-lived credentials obtained via OIDC — no long-lived AWS access keys are stored in
 GitHub.
 
