@@ -207,4 +207,4 @@ Interactive docs available at `http://localhost:8000/docs`.
 ```
 
 A `400` is returned if an `"out"` movement would push stock below zero.
-new Scan 4
+new Scan 4 gcghf
